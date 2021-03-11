@@ -26,9 +26,7 @@ Just clone the project in Android Studio and run it.
 ## Screenshot of images.
 
 ![Image 1](https://i.stack.imgur.com/LLs3H.png)
-
 ![Image 2](https://i.stack.imgur.com/Q6vhO.png)
-
 ![Image 3](https://i.stack.imgur.com/RqoHl.png)
 
 
