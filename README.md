@@ -22,6 +22,5 @@ Tested on Android Version: 9 & 10.
 ## How to use ?
 Just clone the project in Android Studio and run it.
 
-![Image of Yaktocat](https://drive.google.com/drive/u/0/folders/1OX2YUsd6cLPse2OiT0qC5dCnSGR0Y41g)
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
  
