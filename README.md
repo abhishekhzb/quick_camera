@@ -22,5 +22,5 @@ Tested on Android Version: 9 & 10.
 ## How to use ?
 Just clone the project in Android Studio and run it.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://pixabay.com/illustrations/cloud-stars-ocean-reflection-5946381/)
  
