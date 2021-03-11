@@ -22,6 +22,6 @@ Tested on Android Version: 9 & 10.
 ## How to use ?
 Just clone the project in Android Studio and run it.
 
+![Image of Yaktocat](https://drive.google.com/file/d/1QrR69wGYpyOo8IdD12uMYkcWyNHOS7ZE/view?usp=sharing)
 
-https://drive.google.com/file/d/1QrR69wGYpyOo8IdD12uMYkcWyNHOS7ZE/view?usp=sharing
  
