@@ -1,13 +1,13 @@
 # quick_camera  
 This Project have 3 Screens: Folders, Enter Folder Name & Camera.
 
-##### Folders Screen: 
+#### Folders Screen: 
 All the capture photos folder will come to list in this screen.
 
-##### Enter Folder Name Screen: 
+#### Enter Folder Name Screen: 
 Here we have to enter a folder name so all the photos will created inside this folder.
 
-##### Camera Screen: 
+#### Camera Screen: 
 Here we can capture photos in list & it will save inside internal memory with QuickCamera/yourFolderName folder.
 
 
@@ -21,4 +21,7 @@ Tested on Android Version: 9 & 10.
 
 ## How to use ?
 Just clone the project in Android Studio and run it.
+
+
+https://drive.google.com/file/d/1QrR69wGYpyOo8IdD12uMYkcWyNHOS7ZE/view?usp=sharing
  
